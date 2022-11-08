@@ -18,13 +18,15 @@ namespace Backend_Project.Controllers
         public IActionResult Index()
         {
             List<Slider> slider = _context.Sliders.ToList();
-            List<Service> services = _context.Services.ToList();
+            List<Service> service = _context.Services.ToList();
+            List<SameBannerArea> sameBannerArea = _context.SameBannerAreas.ToList();
 
 
             HomeVM home = new HomeVM
             {
                 Sliders = slider,
-                Services = services,
+                Services = service,
+                SameBannerAreas = sameBannerArea,
 
             };
             return View(home);

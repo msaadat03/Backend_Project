@@ -10,6 +10,8 @@ namespace Backend_Project.ViewModels
     {
             public List<Slider> Sliders { get; set; }
             public List<Service> Services { get; set; }
+        public List<SameBannerArea> SameBannerAreas { get; set; }
+
 
     }
 }

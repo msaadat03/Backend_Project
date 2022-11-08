@@ -215,36 +215,33 @@
             </div>
         </section>
         <!-- our product area end -->
+
         <!-- banner statistic area start -->
         <div class="banner-statistics">
             <div class="container">
                 <div class="row no-gutters mtn-30">
-                    <div class="col-md-6">
-                        <div class="img-container mt-30">
-                            <a href="product-details.html">
-                                <img src="assets/img/banner/banner-1.jpg" alt="banner-image">
-                            </a>
-                            <div class="banner-text">
-                                <h5 class="banner-subtitle">sports shoes</h5>
-                                <h3 class="banner-title">20% Off<br>For Sports men</h3>
+
+                    @foreach (var item in Model.SameBannerAreas)
+                    {
+                        <div class="col-md-6">
+                            <div class="img-container mt-30">
+                                <a asp-controller="PoductDetail" asp-action="Index">
+
+                                    <img src="assets/img/banner/@item.Image" alt="banner-image">
+                                </a>
+                                <div class="banner-text">
+                                    <h5 class="banner-subtitle">@item.Subtitle</h5>
+                                    <h3 class="banner-title">@item.Title</h3>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="img-container mt-30">
-                            <a href="product-details.html">
-                                <img src="assets/img/banner/banner-2.jpg" alt="banner-image">
-                            </a>
-                            <div class="banner-text">
-                                <h5 class="banner-subtitle">sports shoes</h5>
-                                <h3 class="banner-title">20% Off<br>For Sports men</h3>
-                            </div>
-                        </div>
-                    </div>
+                    }
                 </div>
             </div>
         </div>
         <!-- banner statistic area end -->
+
+
         <!-- top seller area start -->
         <section class="top-seller-area section-padding">
             <div class="container">
@@ -513,10 +510,11 @@
                                         <li><span>By: </span>Admin,</li>
                                         <li><span>On: </span>14.07.2029</li>
                                     </ul>
-                                    <a href="blog-details.html" class="read-more">Read More...</a>
+                                    <a asp-controller="Blog" asp-action="Index" class="read-more">Read More...</a>
                                 </div>
                             </div>
                             <!-- blog single item start -->
+
                             <!-- blog single item start -->
                             <div class="blog-post-item">
                                 <div class="blog-thumb">

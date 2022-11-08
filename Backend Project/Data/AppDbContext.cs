@@ -15,6 +15,8 @@ namespace Backend_Project.Data
         }
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<Service> Services { get; set; }
+        public DbSet<SameBannerArea> SameBannerAreas { get; set; }
+
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
