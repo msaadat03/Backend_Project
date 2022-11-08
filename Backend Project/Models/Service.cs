@@ -7,7 +7,10 @@ namespace Backend_Project.Models
 {
     public class Service : BaseEntity
     {
-        public int MyProperty { get; set; }
+        public string Icon { get; set; }
+        public string Title { get; set; }
+        public string Desc { get; set; }
+        public string Color { get; set; }
 
     }
 }
