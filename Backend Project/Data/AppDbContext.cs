@@ -14,6 +14,8 @@ namespace Backend_Project.Data
         public DbSet<Service> Services { get; set; }
         public DbSet<SameBannerArea> SameBannerAreas { get; set; }
         public DbSet<Blog> Blogs { get; set; }
+        public DbSet<Brand> Brands { get; set; }
+
 
 
 
