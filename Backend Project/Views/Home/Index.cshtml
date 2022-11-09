@@ -479,6 +479,8 @@
             </div>
         </section>
         <!-- top seller area end -->
+
+
         <!-- latest blog area start -->
         <section class="latest-blog-area">
             <div class="container">
@@ -494,90 +496,26 @@
                     <div class="col-12">
                         <div class="blog-carousel-active slick-row-15">
                             <!-- blog single item start -->
-                            <div class="blog-post-item">
-                                <div class="blog-thumb">
-                                    <a href="blog-details.html">
-                                        <img src="assets/img/blog/blog-1.jpg" alt="blog thumb">
-                                    </a>
-                                </div>
-                                <div class="blog-content">
-                                    <h5 class="blog-title">
-                                        <a href="blog-details.html">
-                                            Celebrity Daughter Opens About to Having Her Eye color
+                            @foreach (var item in Model.Blogs)
+                            {
+                                <div class="blog-post-item">
+                                    <div class="blog-thumb">
+                                        <a asp-controller="Blog" asp-action="Index">
+                                            <img src="assets/img/blog/@item.Images" alt="blog thumb">
                                         </a>
-                                    </h5>
-                                    <ul class="blog-meta">
-                                        <li><span>By: </span>Admin,</li>
-                                        <li><span>On: </span>14.07.2029</li>
-                                    </ul>
-                                    <a asp-controller="Blog" asp-action="Index" class="read-more">Read More...</a>
+                                    </div>
+                                    <div class="blog-content">
+                                        <h5 class="blog-title">
+                                            <a asp-controller="Blog" asp-action="Index">@item.Title</a>
+                                        </h5>
+                                        <ul class="blog-meta">
+                                            <li><span>By: </span>@item.By</li>
+                                            <li><span>On: </span>@item.Date</li>
+                                        </ul>
+                                        <a asp-controller="Blog" asp-action="Index" class="read-more">Read More...</a>
+                                    </div>
                                 </div>
-                            </div>
-                            <!-- blog single item start -->
-
-                            <!-- blog single item start -->
-                            <div class="blog-post-item">
-                                <div class="blog-thumb">
-                                    <a href="blog-details.html">
-                                        <img src="assets/img/blog/blog-2.jpg" alt="blog thumb">
-                                    </a>
-                                </div>
-                                <div class="blog-content">
-                                    <h5 class="blog-title">
-                                        <a href="blog-details.html">
-                                            Sotto Winner Offering Money To Any Man That Will Date Her
-                                        </a>
-                                    </h5>
-                                    <ul class="blog-meta">
-                                        <li><span>By: </span>Admin,</li>
-                                        <li><span>On: </span>14.07.2029</li>
-                                    </ul>
-                                    <a href="blog-details.html" class="read-more">Read More...</a>
-                                </div>
-                            </div>
-                            <!-- blog single item start -->
-                            <!-- blog single item start -->
-                            <div class="blog-post-item">
-                                <div class="blog-thumb">
-                                    <a href="blog-details.html">
-                                        <img src="assets/img/blog/blog-3.jpg" alt="blog thumb">
-                                    </a>
-                                </div>
-                                <div class="blog-content">
-                                    <h5 class="blog-title">
-                                        <a href="blog-details.html">
-                                            Children Left Home Alone For 4 Days In TV Series Experiment
-                                        </a>
-                                    </h5>
-                                    <ul class="blog-meta">
-                                        <li><span>By: </span>Admin,</li>
-                                        <li><span>On: </span>14.07.2029</li>
-                                    </ul>
-                                    <a href="blog-details.html" class="read-more">Read More...</a>
-                                </div>
-                            </div>
-                            <!-- blog single item start -->
-                            <!-- blog single item start -->
-                            <div class="blog-post-item">
-                                <div class="blog-thumb">
-                                    <a href="blog-details.html">
-                                        <img src="assets/img/blog/blog-2.jpg" alt="blog thumb">
-                                    </a>
-                                </div>
-                                <div class="blog-content">
-                                    <h5 class="blog-title">
-                                        <a href="blog-details.html">
-                                            People Are Willing Lie When To Comes Money Research from
-                                        </a>
-                                    </h5>
-                                    <ul class="blog-meta">
-                                        <li><span>By: </span>Admin,</li>
-                                        <li><span>On: </span>14.07.2029</li>
-                                    </ul>
-                                    <a href="blog-details.html" class="read-more">Read More...</a>
-                                </div>
-                            </div>
-                            <!-- blog single item start -->
+                            }
                         </div>
                     </div>
                 </div>

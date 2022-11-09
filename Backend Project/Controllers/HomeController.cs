@@ -20,6 +20,8 @@ namespace Backend_Project.Controllers
             List<Slider> slider = _context.Sliders.ToList();
             List<Service> service = _context.Services.ToList();
             List<SameBannerArea> sameBannerArea = _context.SameBannerAreas.ToList();
+            List<Blog> blog = _context.Blogs.Take(4).ToList();
+
 
 
             HomeVM home = new HomeVM
@@ -27,6 +29,7 @@ namespace Backend_Project.Controllers
                 Sliders = slider,
                 Services = service,
                 SameBannerAreas = sameBannerArea,
+                Blogs = blog,
 
             };
             return View(home);
