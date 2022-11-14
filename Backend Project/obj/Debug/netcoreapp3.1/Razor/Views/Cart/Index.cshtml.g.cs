@@ -33,8 +33,15 @@ using Backend_Project.ViewModels;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 4 "D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\Views\_ViewImports.cshtml"
+using Backend_Project.ViewModels.AccountVM;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8cbcf50cc57809bc900128dc2b5c812e9fb34f02", @"/Views/Cart/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"647252969bb92e82798997f2fa4907e13b0434a0", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c794e313fd22fe92fdf12ba07fa9f45f9ab091ea", @"/Views/_ViewImports.cshtml")]
     public class Views_Cart_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("action", new global::Microsoft.AspNetCore.Html.HtmlString("#"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -88,7 +95,7 @@ using Backend_Project.ViewModels;
             <!-- search box start -->
             <div class=""search-box-offcanvas"">
                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8cbcf50cc57809bc900128dc2b5c812e9fb34f025541", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8cbcf50cc57809bc900128dc2b5c812e9fb34f025769", async() => {
                 WriteLiteral("\r\n                    <input type=\"text\" placeholder=\"Search Here...\">\r\n                    <button class=\"search-btn\"><i class=\"ion-ios-search-strong\"></i></button>\r\n                ");
             }
             );
@@ -399,7 +406,7 @@ using Backend_Project.ViewModels;
                         <div class=""cart-update-option d-block d-md-flex justify-content-between"">
                             <div class=""apply-coupon-wrapper"">
                                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8cbcf50cc57809bc900128dc2b5c812e9fb34f0225122", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8cbcf50cc57809bc900128dc2b5c812e9fb34f0225350", async() => {
                 WriteLiteral("\r\n                                    <input type=\"text\" placeholder=\"Enter Your Coupon Code\" required />\r\n                                    <button class=\"btn\">Apply Coupon</button>\r\n                                ");
             }
             );
@@ -467,7 +474,7 @@ using Backend_Project.ViewModels;
             <i class=""ion-android-close""></i>
         </di");
             WriteLiteral("v>\r\n        <div class=\"container\">\r\n            <div class=\"offcanvas-search-box\">\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8cbcf50cc57809bc900128dc2b5c812e9fb34f0229199", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8cbcf50cc57809bc900128dc2b5c812e9fb34f0229427", async() => {
                 WriteLiteral("\r\n                    <input type=\"text\" placeholder=\"Search entire storage here...\">\r\n                    <button class=\"search-btn\"><i class=\"ion-ios-search-strong\"></i>search</button>\r\n                ");
             }
             );

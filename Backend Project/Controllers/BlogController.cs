@@ -16,11 +16,9 @@ namespace Backend_Project.Controllers
         {
             _context = context;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index (int page)
         {
             List<Blog> blog = _context.Blogs.ToList();
-
-
 
 
             HomeVM home = new HomeVM
@@ -28,6 +26,7 @@ namespace Backend_Project.Controllers
                 Blogs = blog
 
             };
+
             return View(home);
 
             

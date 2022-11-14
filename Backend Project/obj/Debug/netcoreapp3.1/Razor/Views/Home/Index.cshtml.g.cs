@@ -33,8 +33,15 @@ using Backend_Project.ViewModels;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 4 "D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\Views\_ViewImports.cshtml"
+using Backend_Project.ViewModels.AccountVM;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d3895928596e2d89f8c8bbe9f9043d405ecb18a3", @"/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"647252969bb92e82798997f2fa4907e13b0434a0", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c794e313fd22fe92fdf12ba07fa9f45f9ab091ea", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<HomeVM>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-controller", "PoductDetail", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -394,7 +401,7 @@ WriteAttributeValue("", 1980, item.Icon, 1980, 10, false);
 #line hidden
 #nullable disable
             WriteLiteral("                    <div class=\"col-md-6\">\r\n                        <div class=\"img-container mt-30\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3895928596e2d89f8c8bbe9f9043d405ecb18a322070", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3895928596e2d89f8c8bbe9f9043d405ecb18a322298", async() => {
                 WriteLiteral("\r\n\r\n                                <img");
                 BeginWriteAttribute("src", " src=\"", 12522, "\"", 12557, 2);
                 WriteAttributeValue("", 12528, "assets/img/banner/", 12528, 18, true);
@@ -743,7 +750,7 @@ WriteAttributeValue("", 12546, item.Image, 12546, 11, false);
 #line hidden
 #nullable disable
             WriteLiteral("                            <div class=\"blog-post-item\">\r\n                                <div class=\"blog-thumb\">\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3895928596e2d89f8c8bbe9f9043d405ecb18a343640", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3895928596e2d89f8c8bbe9f9043d405ecb18a343868", async() => {
                 WriteLiteral("\r\n                                        <img");
                 BeginWriteAttribute("src", " src=\"", 29672, "\"", 29706, 2);
                 WriteAttributeValue("", 29678, "assets/img/blog/", 29678, 16, true);
@@ -772,7 +779,7 @@ WriteAttributeValue("", 29694, item.Images, 29694, 12, false);
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                </div>\r\n                                <div class=\"blog-content\">\r\n                                    <h5 class=\"blog-title\">\r\n                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3895928596e2d89f8c8bbe9f9043d405ecb18a345800", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3895928596e2d89f8c8bbe9f9043d405ecb18a346028", async() => {
 #nullable restore
 #line 502 "D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\Views\Home\Index.cshtml"
                                                                                Write(item.Title);
@@ -812,7 +819,7 @@ WriteAttributeValue("", 29694, item.Images, 29694, 12, false);
 #line hidden
 #nullable disable
             WriteLiteral("</li>\r\n                                    </ul>\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3895928596e2d89f8c8bbe9f9043d405ecb18a348309", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3895928596e2d89f8c8bbe9f9043d405ecb18a348537", async() => {
                 WriteLiteral("Read More...");
             }
             );

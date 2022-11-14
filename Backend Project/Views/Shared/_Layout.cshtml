@@ -67,7 +67,7 @@
                         <!-- start logo area -->
                         <div class="col-lg-2">
                             <div class="logo">
-                                <a href="index.html">
+                                <a asp-controller="Home" asp-action="Index">
                                     <img src="~/assets/img/logo/logo.png" alt="">
                                 </a>
                             </div>
@@ -131,8 +131,8 @@
                                                         <a href="#">column 04</a>
                                                         <ul>
                                                             <li><a href="my-account.html">my-account</a></li>
-                                                            <li><a href="login-register.html">login-register</a></li>
-                                                            <li><a href="contact-us.html">contact us</a></li>
+                                                            <li><a asp-controller="Account" asp-action="Login">login-register</a></li>
+                                                            <li><a asp-controller="Account" asp-action="Register">contact us</a></li>
                                                         </ul>
                                                     </li>
                                                 </ul>
@@ -203,8 +203,8 @@
                                                 <i class="ion-ios-gear-outline"></i>
                                             </a>
                                             <ul class="dropdown-list">
-                                                <li><a asp-controller="Login" asp-action="Index">login</a></li>
-                                                <li><a asp-controller="Register" asp-action="Index">register</a></li>
+                                                <li><a asp-controller="Account" asp-action="Login">login</a></li>
+                                                <li><a asp-controller="Account" asp-action="Register">register</a></li>
                                                 <li><a href="my-account.html">log out</a></li>
                                             </ul>
                                         </li>

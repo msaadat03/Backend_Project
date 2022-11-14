@@ -1,11 +1,3 @@
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.csproj.AssemblyReference.cache
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.GeneratedMSBuildEditorConfig.editorconfig
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.AssemblyInfoInputs.cache
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.AssemblyInfo.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.csproj.CoreCompileInputs.cache
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.MvcApplicationPartsAssemblyInfo.cache
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.RazorAssemblyInfo.cache
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.RazorAssemblyInfo.cs
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Backend Project.exe
@@ -16,29 +8,42 @@ D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Backend Project.pdb
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Backend Project.Views.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Backend Project.Views.pdb
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\staticwebassets\Backend Project.StaticWebAssets.Manifest.cache
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\staticwebassets\Backend Project.StaticWebAssets.xml
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Backend Project.styles.css
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.TagHelpers.input.cache
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.TagHelpers.output.cache
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.RazorCoreGenerate.cache
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.RazorTargetAssemblyInfo.cache
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.RazorTargetAssemblyInfo.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.Views.pdb
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.pdb
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.genruntimeconfig.cache
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.csproj.CopyComplete
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -49,11 +54,17 @@ D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
@@ -106,44 +117,6 @@ D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Index.cshtml.g.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Register\Index.cshtml.g.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\ProductDetail\Index.cshtml.g.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
@@ -152,3 +125,48 @@ D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.AssemblyInfoInputs.cache
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.AssemblyInfo.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.csproj.CoreCompileInputs.cache
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.RazorAssemblyInfo.cache
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.RazorAssemblyInfo.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\staticwebassets\Backend Project.StaticWebAssets.Manifest.cache
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\staticwebassets\Backend Project.StaticWebAssets.xml
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Backend Project.styles.css
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.TagHelpers.input.cache
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.TagHelpers.output.cache
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.RazorCoreGenerate.cache
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Index.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\ProductDetail\Index.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.RazorTargetAssemblyInfo.cache
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.RazorTargetAssemblyInfo.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.Views.pdb
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.csproj.CopyComplete
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.pdb
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.genruntimeconfig.cache
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\VerifyEmail.cshtml.g.cs

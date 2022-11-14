@@ -33,8 +33,15 @@ using Backend_Project.ViewModels;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 4 "D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\Views\_ViewImports.cshtml"
+using Backend_Project.ViewModels.AccountVM;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7b64929274f6152ed5bc3d49f11171bbd390379b", @"/Views/Shop/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"647252969bb92e82798997f2fa4907e13b0434a0", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c794e313fd22fe92fdf12ba07fa9f45f9ab091ea", @"/Views/_ViewImports.cshtml")]
     public class Views_Shop_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-controller", "ProductDetail", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -95,7 +102,7 @@ using Backend_Project.ViewModels;
             <!-- search box start -->
             <div class=""search-box-offcanvas"">
                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b7246", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b7474", async() => {
                 WriteLiteral("\r\n                    <input type=\"text\" placeholder=\"Search Here...\">\r\n                    <button class=\"search-btn\"><i class=\"ion-ios-search-strong\"></i></button>\r\n                ");
             }
             );
@@ -150,7 +157,7 @@ using Backend_Project.ViewModels;
                                 </li>
        ");
             WriteLiteral("                         <li class=\"mega-title menu-item-has-children\">\r\n                                    <a href=\"#\">column 02</a>\r\n                                    <ul class=\"dropdown\">\r\n                                        <li>");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b11063", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b11291", async() => {
                 WriteLiteral("product details");
             }
             );
@@ -235,7 +242,7 @@ using Backend_Project.ViewModels;
                                     <a href=""#"">products details</a>
             ");
             WriteLiteral("                        <ul class=\"dropdown\">\r\n                                        <li>");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b16817", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b17045", async() => {
                 WriteLiteral("product details");
             }
             );
@@ -395,7 +402,7 @@ using Backend_Project.ViewModels;
                                 <div class=""price-range-wrap"">
  ");
             WriteLiteral("                                   <div class=\"price-range\" data-min=\"20\" data-max=\"400\"></div>\r\n                                    <div class=\"range-slider\">\r\n                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b25977", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b26205", async() => {
                 WriteLiteral(@"
                                             <div class=""price-input"">
                                                 <label for=""amount"">Price: </label>
@@ -488,7 +495,7 @@ using Backend_Project.ViewModels;
                                             <p>Sort By : </p>
                                             <select class=""nice-select"" name=""sortby"">
                                                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b31946", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b32174", async() => {
                 WriteLiteral("Relevance");
             }
             );
@@ -504,7 +511,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b33157", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b33385", async() => {
                 WriteLiteral("Name (A - Z)");
             }
             );
@@ -520,7 +527,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b34371", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b34599", async() => {
                 WriteLiteral("Name (Z - A)");
             }
             );
@@ -536,7 +543,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b35585", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b35813", async() => {
                 WriteLiteral("Price (Low &gt; High)");
             }
             );
@@ -552,7 +559,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b36808", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b37036", async() => {
                 WriteLiteral("Rating (Lowest)");
             }
             );
@@ -568,7 +575,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b38025", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b38253", async() => {
                 WriteLiteral("Model (A - Z)");
             }
             );
@@ -584,7 +591,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b39240", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b39468", async() => {
                 WriteLiteral("Model (Z - A)");
             }
             );
@@ -617,7 +624,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-item mb-53"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b41364", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b41592", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-1.jpg\"");
                 BeginWriteAttribute("alt", " alt=\"", 20708, "\"", 20714, 0);
                 EndWriteAttribute();
@@ -638,7 +645,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b43242", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b43470", async() => {
                 WriteLiteral("Leather Mens Slipper");
             }
             );
@@ -677,7 +684,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-list-item mb-30"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b46163", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b46391", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-1.jpg\" alt=\"product thumb\">\r\n                                        ");
             }
             );
@@ -695,7 +702,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content-list\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b47916", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b48144", async() => {
                 WriteLiteral("Leather Mens Slipper");
             }
             );
@@ -741,7 +748,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-item mb-53"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b51344", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b51572", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-2.jpg\"");
                 BeginWriteAttribute("alt", " alt=\"", 25177, "\"", 25183, 0);
                 EndWriteAttribute();
@@ -762,7 +769,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b53222", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b53450", async() => {
                 WriteLiteral("Quickiin Mens shoes");
             }
             );
@@ -801,7 +808,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-list-item mb-30"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b56142", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b56370", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-2.jpg\" alt=\"product thumb\">\r\n                                        ");
             }
             );
@@ -819,7 +826,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content-list\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b57895", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b58123", async() => {
                 WriteLiteral("Quickiin Mens shoes");
             }
             );
@@ -865,7 +872,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-item mb-53"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b61322", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b61550", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-3.jpg\"");
                 BeginWriteAttribute("alt", " alt=\"", 29644, "\"", 29650, 0);
                 EndWriteAttribute();
@@ -886,7 +893,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b63200", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b63428", async() => {
                 WriteLiteral("Rexpo Womens shoes");
             }
             );
@@ -925,7 +932,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-list-item mb-30"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b66119", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b66347", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-3.jpg\" alt=\"product thumb\">\r\n                                        ");
             }
             );
@@ -943,7 +950,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content-list\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b67872", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b68100", async() => {
                 WriteLiteral("Rexpo Womens shoes");
             }
             );
@@ -989,7 +996,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-item mb-53"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b71298", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b71526", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-4.jpg\"");
                 BeginWriteAttribute("alt", " alt=\"", 34109, "\"", 34115, 0);
                 EndWriteAttribute();
@@ -1010,7 +1017,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b73176", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b73404", async() => {
                 WriteLiteral("Primitive Mens shoes");
             }
             );
@@ -1049,7 +1056,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-list-item mb-30"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b76097", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b76325", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-4.jpg\" alt=\"product thumb\">\r\n                                        ");
             }
             );
@@ -1067,7 +1074,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content-list\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b77850", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b78078", async() => {
                 WriteLiteral("Primitive Mens shoes");
             }
             );
@@ -1113,7 +1120,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-item mb-53"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b81278", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b81506", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-5.jpg\"");
                 BeginWriteAttribute("alt", " alt=\"", 38578, "\"", 38584, 0);
                 EndWriteAttribute();
@@ -1134,7 +1141,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b83156", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b83384", async() => {
                 WriteLiteral("Rexpo Womens shoes");
             }
             );
@@ -1173,7 +1180,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-list-item mb-30"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b86075", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b86303", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-5.jpg\" alt=\"product thumb\">\r\n                                        ");
             }
             );
@@ -1191,7 +1198,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content-list\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b87828", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b88056", async() => {
                 WriteLiteral("Rexpo Womens shoes");
             }
             );
@@ -1237,7 +1244,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-item mb-53"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b91254", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b91482", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-6.jpg\"");
                 BeginWriteAttribute("alt", " alt=\"", 43043, "\"", 43049, 0);
                 EndWriteAttribute();
@@ -1258,7 +1265,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b93132", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b93360", async() => {
                 WriteLiteral("Quickiin Mens shoes");
             }
             );
@@ -1297,7 +1304,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-list-item mb-30"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b96052", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b96280", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-6.jpg\" alt=\"product thumb\">\r\n                                        ");
             }
             );
@@ -1315,7 +1322,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content-list\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b97805", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b98033", async() => {
                 WriteLiteral("Quickiin Mens shoes");
             }
             );
@@ -1361,7 +1368,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-item mb-53"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b101232", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b101460", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-7.jpg\"");
                 BeginWriteAttribute("alt", " alt=\"", 47510, "\"", 47516, 0);
                 EndWriteAttribute();
@@ -1382,7 +1389,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b103111", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b103339", async() => {
                 WriteLiteral("Primitive Mens shoes");
             }
             );
@@ -1421,7 +1428,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-list-item mb-30"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b106033", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b106261", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-7.jpg\" alt=\"product thumb\">\r\n                                        ");
             }
             );
@@ -1439,7 +1446,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content-list\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b107787", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b108015", async() => {
                 WriteLiteral("Primitive Mens shoes");
             }
             );
@@ -1485,7 +1492,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-item mb-53"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b111216", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b111444", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-8.jpg\"");
                 BeginWriteAttribute("alt", " alt=\"", 51979, "\"", 51985, 0);
                 EndWriteAttribute();
@@ -1506,7 +1513,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b113095", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b113323", async() => {
                 WriteLiteral("Leather Mens Slipper");
             }
             );
@@ -1545,7 +1552,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-list-item mb-30"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b116017", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b116245", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-8.jpg\" alt=\"product thumb\">\r\n                                        ");
             }
             );
@@ -1563,7 +1570,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content-list\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b117771", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b117999", async() => {
                 WriteLiteral("Leather Mens Slipper");
             }
             );
@@ -1609,7 +1616,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-item mb-53"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b121200", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b121428", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-9.jpg\"");
                 BeginWriteAttribute("alt", " alt=\"", 56448, "\"", 56454, 0);
                 EndWriteAttribute();
@@ -1630,7 +1637,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b123079", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b123307", async() => {
                 WriteLiteral("Rexpo Womens shoes");
             }
             );
@@ -1669,7 +1676,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-list-item mb-30"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b125999", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b126227", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-9.jpg\" alt=\"product thumb\">\r\n                                        ");
             }
             );
@@ -1687,7 +1694,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content-list\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b127753", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b127981", async() => {
                 WriteLiteral("Rexpo Womens shoes");
             }
             );
@@ -1733,7 +1740,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-item mb-53"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b131180", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b131408", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-10.jpg\"");
                 BeginWriteAttribute("alt", " alt=\"", 60914, "\"", 60920, 0);
                 EndWriteAttribute();
@@ -1754,7 +1761,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b133060", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b133288", async() => {
                 WriteLiteral("Quickiin Mens shoes");
             }
             );
@@ -1793,7 +1800,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-list-item mb-30"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b135981", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b136209", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-10.jpg\" alt=\"product thumb\">\r\n                                        ");
             }
             );
@@ -1811,7 +1818,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content-list\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b137736", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b137964", async() => {
                 WriteLiteral("Quickiin Mens shoes");
             }
             );
@@ -1857,7 +1864,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-item mb-53"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b141164", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b141392", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-11.jpg\"");
                 BeginWriteAttribute("alt", " alt=\"", 65383, "\"", 65389, 0);
                 EndWriteAttribute();
@@ -1878,7 +1885,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b143044", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b143272", async() => {
                 WriteLiteral("Rexpo Womens shoes");
             }
             );
@@ -1917,7 +1924,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-list-item mb-30"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b145964", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b146192", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-11.jpg\" alt=\"product thumb\">\r\n                                        ");
             }
             );
@@ -1935,7 +1942,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content-list\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b147719", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b147947", async() => {
                 WriteLiteral("Rexpo Womens shoes");
             }
             );
@@ -1981,7 +1988,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-item mb-53"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b151146", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b151374", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-12.jpg\"");
                 BeginWriteAttribute("alt", " alt=\"", 69850, "\"", 69856, 0);
                 EndWriteAttribute();
@@ -2002,7 +2009,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b153026", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b153254", async() => {
                 WriteLiteral("Primitive Mens shoes");
             }
             );
@@ -2041,7 +2048,7 @@ using Backend_Project.ViewModels;
                                 <div class=""product-list-item mb-30"">
                                     <div class=""product-thumb"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b155948", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b156176", async() => {
                 WriteLiteral("\r\n                                            <img src=\"assets/img/product/product-12.jpg\" alt=\"product thumb\">\r\n                                        ");
             }
             );
@@ -2059,7 +2066,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"product-content-list\">\r\n                                        <h5 class=\"product-name\">\r\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b157703", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b157931", async() => {
                 WriteLiteral("Primitive Mens shoes");
             }
             );
@@ -2216,7 +2223,7 @@ using Backend_Project.ViewModels;
         <div class=""container"">
             <div class=""offcanvas-search-box"">
                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b167527", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b167755", async() => {
                 WriteLiteral("\r\n                    <input type=\"text\" placeholder=\"Search entire storage here...\">\r\n                    <button class=\"search-btn\"><i class=\"ion-ios-search-strong\"></i>search</button>\r\n                ");
             }
             );
@@ -2252,7 +2259,7 @@ using Backend_Project.ViewModels;
                         <li class=""minicart-item"">
                             <div class=""minicart-thumb"">
                                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b169755", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b169983", async() => {
                 WriteLiteral("\r\n                                    <img src=\"assets/img/cart/cart-1.jpg\" alt=\"product\">\r\n                                ");
             }
             );
@@ -2270,7 +2277,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                            </div>\r\n                            <div class=\"minicart-content\">\r\n                                <h3 class=\"product-name\">\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b171445", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b171673", async() => {
                 WriteLiteral("Flowers bouquet pink for all flower lovers");
             }
             );
@@ -2299,7 +2306,7 @@ using Backend_Project.ViewModels;
                         <li class=""minicart-item"">
                             <div class=""minicart-thumb"">
                                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b173458", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b173686", async() => {
                 WriteLiteral("\r\n                                    <img src=\"assets/img/cart/cart-2.jpg\" alt=\"product\">\r\n                                ");
             }
             );
@@ -2317,7 +2324,7 @@ using Backend_Project.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                            </div>\r\n                            <div class=\"minicart-content\">\r\n                                <h3 class=\"product-name\">\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b175148", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b64929274f6152ed5bc3d49f11171bbd390379b175376", async() => {
                 WriteLiteral("Jasmine flowers white for all flower lovers");
             }
             );

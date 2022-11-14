@@ -1,0 +1,77 @@
+﻿@model RegisterVM
+
+@{ ViewData["Title"] = "Register"; }
+
+<!-- breadcrumb area start -->
+<div class="breadcrumb-area bg-img" data-bg="~/assets/img/banner/breadcrumb-banner.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="breadcrumb-wrap text-center">
+                    <nav aria-label="breadcrumb">
+                        <h1 class="breadcrumb-title">Login-Register</h1>
+                        <ul class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Login-Register</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- breadcrumb area end -->
+<!-- login register wrapper start -->
+<div class="login-register-wrapper">
+    <div class="container">
+        <div class="member-area-from-wrap">
+            <div class="row">
+                <!-- Register Content Start -->
+                <div class="col-lg-6" style="position: relative; display: flex; justify-content: center">
+                    <div class="login-reg-form-wrap signup-form" style="box-sizing:border-box !important">
+                        <div class="text-danger" asp-validation-summary="All"></div>
+                        <h2>Singup Form</h2>
+                        <form asp-controller="Account" asp-action="Register" method="post" enctype="multipart/form-data">
+                            <div class="single-input-item">
+                                <input placeholder="Full Name" asp-for="Fullname" />
+                                <span class="text-danger" asp-validation-for="Fullname"></span>
+                            </div>
+                            <div class="single-input-item">
+                                <input placeholder="Enter your Email" asp-for="Email" />
+                                <span class="text-danger" asp-validation-for="Email"></span>
+                            </div>
+                            <div class="single-input-item">
+                                <input placeholder="Enter your Username" asp-for="Username" />
+                                <span class="text-danger" asp-validation-for="Username"></span>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="single-input-item">
+                                        <input placeholder="Enter your Password" asp-for="Password" />
+                                        <span class="text-danger" asp-validation-for="Password"></span>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="single-input-item">
+                                        <input placeholder="Repeat your Password" asp-for="ConfirmPassword" />
+                                        <span class="text-danger" asp-validation-for="ConfirmPassword"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-input-item">
+                                <button class="btn">Register</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <!-- Register Content End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- login register wrapper end -->
+
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js" integrity="sha512-rstIgDs0xPgmG6RX1Aba4KV5cWJbAMcvRCVmglpam9SoHZiUCyQVDdH2LPlxoHtrv17XWblE/V/PP+Tr04hbtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/4.0.0/jquery.validate.unobtrusive.min.js" integrity="sha512-xq+Vm8jC94ynOikewaQXMEkJIOBp7iArs3IhFWSWdRT3Pq8wFz46p+ZDFAR7kHnSFf+zUv52B3prRYnbDRdgog==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+}

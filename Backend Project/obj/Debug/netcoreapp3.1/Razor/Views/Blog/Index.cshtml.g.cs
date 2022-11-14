@@ -33,8 +33,15 @@ using Backend_Project.ViewModels;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 4 "D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\Views\_ViewImports.cshtml"
+using Backend_Project.ViewModels.AccountVM;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"aad75d48c94c15db7b800acabf1a482f182d6793", @"/Views/Blog/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"647252969bb92e82798997f2fa4907e13b0434a0", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c794e313fd22fe92fdf12ba07fa9f45f9ab091ea", @"/Views/_ViewImports.cshtml")]
     public class Views_Blog_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<HomeVM>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("widget-search-form"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -123,7 +130,7 @@ using Backend_Project.ViewModels;
                         <div class=""blog-widget"">
                             <h4 class=""blog-widget-title"">Search</h4>
                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "aad75d48c94c15db7b800acabf1a482f182d67936625", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "aad75d48c94c15db7b800acabf1a482f182d67936853", async() => {
                 WriteLiteral("\r\n                                <input placeholder=\"Search keyword\" type=\"text\" class=\"search-field\">\r\n                                <button type=\"submit\" class=\"search-btn\"><i class=\"fa fa-search\"></i></button>\r\n                            ");
             }
             );
