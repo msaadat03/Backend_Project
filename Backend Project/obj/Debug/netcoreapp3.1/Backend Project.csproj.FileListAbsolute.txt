@@ -8,6 +8,7 @@ D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Backend Project.pdb
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Backend Project.Views.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Backend Project.Views.pdb
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\MailKit.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -52,8 +53,10 @@ D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\MimeKit.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
@@ -62,9 +65,14 @@ D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
@@ -124,7 +132,10 @@ D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.GeneratedMSBuildEditorConfig.editorconfig
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.AssemblyInfoInputs.cache
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.AssemblyInfo.cs
@@ -138,11 +149,14 @@ D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.TagHelpers.input.cache
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.TagHelpers.output.cache
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.RazorCoreGenerate.cache
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgetPassword.cshtml.g.cs
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\VerifyEmail.cshtml.g.cs
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Index.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\ProductDetail\Index.cshtml.g.cs
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -156,17 +170,4 @@ D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.dll
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.pdb
 D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.genruntimeconfig.cache
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\MailKit.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\MimeKit.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgetPassword.cshtml.g.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
-D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\VerifyEmail.cshtml.g.cs
+D:\Code Academy\ASP.NET Core\Backend Project\Backend Project\Backend Project\obj\Debug\netcoreapp3.1\Backend Project.csproj.AssemblyReference.cache

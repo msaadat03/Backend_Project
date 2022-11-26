@@ -6,6 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20221116095906_UserTableCreation.cs" />
+    <Compile Remove="Migrations\20221116095906_UserTableCreation.Designer.cs" />
+    <Compile Remove="Migrations\20221116100720_UserTableCreation.cs" />
+    <Compile Remove="Migrations\20221116100720_UserTableCreation.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="MailKit" Version="3.4.2" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.30" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.30" />
